@@ -67,14 +67,6 @@ Build a machine learning model using libraries like **scikit-learn** or **Tensor
 
 Evaluate the model's performance using metrics such as accuracy, precision, and recall. Detailed evaluation will provide insights into the model's effectiveness.
 
-## Report
-
-A detailed report is included in the `report.pdf`, covering:
-- The scraping process and challenges faced.
-- Features extracted and their relevance.
-- Model evaluation metrics and performance insights.
-- Suggestions for future improvements.
-
 ## Demo Video
 
 An optional demo video demonstrating the scraping process, model training, and results is available. Upload the video to a platform like YouTube and include the link in your submission.
